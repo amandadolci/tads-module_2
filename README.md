@@ -1,4 +1,4 @@
-# Jogos Retrô
+# Arcade Games
 
 ## Objetivo
 
@@ -23,8 +23,8 @@ Site elaborado para o projeto do módulo 2 do curso de Análise e Desenvolviment
 │ ├── header.php  
 │ └── footer.php  
 ├── sass/  
-│ ├── styles.css
-│ ├── styles.csss.map
+│ ├── styles.css  
+│ ├── styles.csss.map  
 │ └── styles.scss  
 ├── index.php  
 ├── game.php  
