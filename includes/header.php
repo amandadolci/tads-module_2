@@ -21,7 +21,7 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <!-- Dropdown do header: renderizar depois dados da API de games -->
             <a class="dropdown-item" href="game.php?game=space_invaders">Space Invaders</a>
-            <a class="dropdown-item" href="game.php?game=pacman">Pacman</a>
+            <a class="dropdown-item" href="game.php?game=pac_man">Pacman</a>
             <a class="dropdown-item" href="game.php?game=snake">Snake</a>
           </div>
         </li>
